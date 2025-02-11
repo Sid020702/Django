@@ -25,3 +25,6 @@ db.sqlite3-journal
 
 # Migrations cache (optional, if you want to exclude compiled migrations)
 **/migrations/__pycache__/
+
+# Static files
+/static/
